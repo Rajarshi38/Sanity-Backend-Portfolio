@@ -1,3 +1,10 @@
+# Notice
+
+This is the sanity backend files for current portfolio it is live [deployed](https://labuportfolio.sanity.studio).
+Also this can be modified on the localhost. To run the server on the localhost run `sanity start`
+
+Also to made the changes available run `sanity build`.
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
